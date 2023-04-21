@@ -8,7 +8,7 @@ View the final report here [DSGA1001_Capstone_report.pdf](report/DSGA1001_Capsto
 ## Dataset
 The dataset we used is a mix of laptop and desktop CPU/GPU specifications. An ideal dataset would have an extra column specifying if it is a laptop or a desktop. Additionally, if we had the price of each component, we could have analyzed the price for each specification of FPS. However, this information was not available, and we had to work with the given dataset.
 
-Since the original dataset is too big to upload on GitHub, you can find the dataset on Kaggle [here](https://www.kaggle.com/datasets/kritikseth/achieved-frames-per-second-fps-in-video-games)
+Since the original dataset is too big to upload on GitHub, you can find the dataset on [Kaggle](https://www.kaggle.com/datasets/kritikseth/achieved-frames-per-second-fps-in-video-games).
 
 ## Methodology
 We started by cleaning the dataset to ensure it was error-free and organized. Then, we conducted data exploration to identify trends and patterns in the data. During this process, we discovered a unique relationship between three variables: die size, process size, and transistors. This led us to explore Moore’s Law, a theory that states that the number of transistors on a microchip will double approximately every two years.
