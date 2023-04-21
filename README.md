@@ -24,6 +24,10 @@ Through this project, we gained valuable insights into the FPS gaming industry a
 
 Overall, this project provides a starting point for further research into optimal conditions for playing video games, which could help game developers create better games and enhance the gaming experience for players.
 
+## Mentor
+
+This project was completed with the guidanc of [Dr Pascal Wallisch](https://github.com/Pascallisch)
+
 ## Installation
 ```
 pip install -r requirements.txt
