@@ -26,7 +26,7 @@ Overall, this project provides a starting point for further research into optima
 
 ## Mentor
 
-This project was completed with the guidanc of [Dr Pascal Wallisch](https://github.com/Pascallisch)
+This project was completed with the guidance of [Dr Pascal Wallisch](https://github.com/Pascallisch)
 
 ## Installation
 ```
