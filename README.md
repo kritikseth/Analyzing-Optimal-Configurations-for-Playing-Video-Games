@@ -29,7 +29,7 @@ Overall, this project provides a starting point for further research into optima
 
 ### Clone this repository using the following command:
 
-`bash git clone https://github.com/yourusername/optimal-conditions-for-playing-video-games.git`
+`bash git clone https://github.com/kritikseth/Analyzing-Optimal-Configurations-for-Playing-Video-Games.git`
 
 ## Usage
 To use this project, navigate to the cloned directory and open the following file:
