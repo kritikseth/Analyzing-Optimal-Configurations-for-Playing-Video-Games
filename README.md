@@ -17,6 +17,8 @@ To test the validity of Moore’s Law, we performed a hypothesis test, with the 
 
 With the final dataset complete, we then conducted predictive analyses to further understand the optimal conditions for video game playing. We also pursued the prediction of game settings that each configuration could be classified into. Our cleaned dataset also allowed us to cluster our dataset based solely on game features of resolution, settings, and FPS.
 
+We performed regression trying to estimate FPS using PC specifications and classification on Game-Resolution to recomment optimal resolution a game should be played on, given PC specifications.
+
 ## Conclusion
 Through this project, we gained valuable insights into the FPS gaming industry and the factors that contribute to successful gameplay. However, we must note that Die Size and Process Size are different for different SKUs in a company’s product lineup, even if all the SKUs were launched in the same year. This may be because any company might want to cut costs in its lower end products and hence may end up not providing the latest technology. We assume that this trend will continue in the future.
 
