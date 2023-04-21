@@ -25,11 +25,14 @@ Through this project, we gained valuable insights into the FPS gaming industry a
 Overall, this project provides a starting point for further research into optimal conditions for playing video games, which could help game developers create better games and enhance the gaming experience for players.
 
 ## Installation
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 ### Clone this repository using the following command:
-
-`bash git clone https://github.com/kritikseth/Analyzing-Optimal-Configurations-for-Playing-Video-Games.git`
+```
+bash git clone https://github.com/kritikseth/Analyzing-Optimal-Configurations-for-Playing-Video-Games.git
+```
 
 ## Usage
 To use this project, navigate to the cloned directory and open the following file:
